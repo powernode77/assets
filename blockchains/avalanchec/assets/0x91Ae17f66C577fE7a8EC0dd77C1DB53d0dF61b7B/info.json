@@ -1,1 +1,11 @@
-
+{
+  "name": "Digital Reserve Exchange",
+  "website": "https://powernode.info",
+  "description": "UDRX is a digital reserve token on the Avalanche network",
+  "explorer": "https://snowtrace.io/token/0x91Ae17f66C577fE7a8EC0dd77C1DB53d0dF61b7B",
+  "type": "AVALANCHE",
+  "symbol": "UDRX",
+  "decimals": 6,
+  "status": "active",
+  "tags": ["stablecoin", "reserve"]
+}
